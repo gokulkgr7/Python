@@ -4,9 +4,7 @@ Exercise 3  - SECOND NUMBER
 Exercise 4  - SWAPPING
 Exercise 5  - PANGRAM
 Exercise 6  - TUPLE
-Exercise 7  - 
 Exercise 8  - SORT
-Exercise 9  -
 Exercise 10 - Upper lower
 Exercise 11 - GCD
 Exercise 13 - APPAREL
